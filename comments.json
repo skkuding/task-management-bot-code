@@ -1,0 +1,1449 @@
+{
+  "toDelete": [],
+  "toComment": {
+    "NECESSARY_FIELD": [
+      {
+        "page_id": "107ef9cf-f545-80ae-b294-f5b3a66725c4",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "24e39d38-f955-4a4d-987d-df10528bab77",
+            "name": "KIM DONGHO",
+            "avatar_url": "https://lh3.googleusercontent.com/a/AATXAJxJkGDBPxzB91FZOQYBlQRYiqjipjcEODeprLuw=s100",
+            "type": "person",
+            "person": {
+              "email": "dh4854k@g.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: EBS, ECR, RDS 스냅샷 데이터 정리 (제거)]",
+        "title": "EBS, ECR, RDS 스냅샷 데이터 정리 (제거)",
+        "url": "https://www.notion.so/EBS-ECR-RDS-107ef9cff54580aeb294f5b3a66725c4"
+      },
+      {
+        "page_id": "103ef9cf-f545-80bf-8fc1-cc0502832665",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "654c4329-3a3c-48c2-8465-8208fb5262c7",
+            "name": "권태환",
+            "avatar_url": null,
+            "type": "person",
+            "person": {
+              "email": "kwon99814@naver.com"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: Admin User, Client Auth 모듈 예외처리 구조 개선]",
+        "title": "Admin User, Client Auth 모듈 예외처리 구조 개선",
+        "url": "https://www.notion.so/Admin-User-Client-Auth-103ef9cff54580bf8fc1cc0502832665"
+      },
+      {
+        "page_id": "87661bf3-0aa4-4d6b-8fe1-7e591869b3de",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "ab7e9453-b49f-40c8-b744-f05ea96ed8b6",
+            "name": "강은수",
+            "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/f976790f-b8bb-4eeb-9e31-d5c505e56406/미모티콘.jpg",
+            "type": "person",
+            "person": {
+              "email": "kanges802@g.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: ASG에 ]",
+        "title": "ASG에 ",
+        "url": "https://www.notion.so/ASG-autoscaling-CreateOrUpdateTags-87661bf30aa44d6b8fe17e591869b3de"
+      },
+      {
+        "page_id": "6eb5968a-931a-4931-adb1-21b71c9b8cef",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "340cddce-8f7c-4f98-a66b-dea01db55e35",
+            "name": "Junhyun Lee",
+            "avatar_url": null,
+            "type": "person",
+            "person": {
+              "email": "dftxrtmm2m@privaterelay.appleid.com"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: Codedang환경에서 gateway vpc endpoint를 활용하여 ECS↔S3 통신 적용하기]",
+        "title": "Codedang환경에서 gateway vpc endpoint를 활용하여 ECS↔S3 통신 적용하기",
+        "url": "https://www.notion.so/Codedang-gateway-vpc-endpoint-ECS-S3-6eb5968a931a4931adb121b71c9b8cef"
+      },
+      {
+        "page_id": "f7897892-ccfa-43bf-bd5c-5e68efdc1181",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "d1bfd5b3-bd0f-4043-8338-c8ef742f29af",
+            "name": "김명진",
+            "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/13d8af20-b0b5-4cf4-a9a3-4b9e159be388/IMG_6852.jpeg",
+            "type": "person",
+            "person": {
+              "email": "kimmjabc@g.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: Admin Contest overall > user submission detail 모달 생성]",
+        "title": "Admin Contest overall > user submission detail 모달 생성",
+        "url": "https://www.notion.so/Admin-Contest-overall-user-submission-detail-f7897892ccfa43bfbd5c5e68efdc1181"
+      },
+      {
+        "page_id": "825aff8a-f1a4-446a-b570-02d9c35b5b95",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "fedb15d5-0690-40bf-b74f-f84b26fffebc",
+            "name": "예솔 김",
+            "avatar_url": "https://lh3.googleusercontent.com/a/AATXAJyF_ZePZaIQ_r-egEWstIacIvWpNXKCYTBld6j7=s100",
+            "type": "person",
+            "person": {
+              "email": "tribegod.123@gmail.com"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: 학번/학과 정보 없는 사용자에게 이메일 전송]",
+        "title": "학번/학과 정보 없는 사용자에게 이메일 전송",
+        "url": "https://www.notion.so/825aff8af1a4446ab57002d9c35b5b95"
+      },
+      {
+        "page_id": "157b7dd1-5a55-4ca3-864c-6e83448c4833",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "89dd763e-6e84-46eb-bb6a-9e5016841d9f",
+            "name": "태욱 김",
+            "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLibUvw59H2jJ7ModQR_GuaxgVoLOgUJQZm_Ehrew-n=s100",
+            "type": "person",
+            "person": {
+              "email": "tandyoon7@gmail.com"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: 최종 QA) sign up - first major에서 hover 시 full name 나오게끔 (툴팁)]",
+        "title": "최종 QA) sign up - first major에서 hover 시 full name 나오게끔 (툴팁)",
+        "url": "https://www.notion.so/QA-sign-up-first-major-hover-full-name-157b7dd15a554ca3864c6e83448c4833"
+      },
+      {
+        "page_id": "4cb19031-aedf-4f14-8de1-8b78f97f706b",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "d1bfd5b3-bd0f-4043-8338-c8ef742f29af",
+            "name": "김명진",
+            "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/13d8af20-b0b5-4cf4-a9a3-4b9e159be388/IMG_6852.jpeg",
+            "type": "person",
+            "person": {
+              "email": "kimmjabc@g.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: 비밀번호 보이게 하는 눈 아이콘 파랑 → 회색으로 변경하기]",
+        "title": "비밀번호 보이게 하는 눈 아이콘 파랑 → 회색으로 변경하기",
+        "url": "https://www.notion.so/4cb19031aedf4f148de18b78f97f706b"
+      },
+      {
+        "page_id": "2662ca1a-40ce-4aeb-812f-87427f2d38e3",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "fedb15d5-0690-40bf-b74f-f84b26fffebc",
+            "name": "예솔 김",
+            "avatar_url": "https://lh3.googleusercontent.com/a/AATXAJyF_ZePZaIQ_r-egEWstIacIvWpNXKCYTBld6j7=s100",
+            "type": "person",
+            "person": {
+              "email": "tribegod.123@gmail.com"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: Management - Dashboard 이미지 정렬 및 IBM Font로 변경]",
+        "title": "Management - Dashboard 이미지 정렬 및 IBM Font로 변경",
+        "url": "https://www.notion.so/Management-Dashboard-IBM-Font-2662ca1a40ce4aeb812f87427f2d38e3"
+      },
+      {
+        "page_id": "87d34172-a6c4-4ef6-878c-de22f826401e",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "fedb15d5-0690-40bf-b74f-f84b26fffebc",
+            "name": "예솔 김",
+            "avatar_url": "https://lh3.googleusercontent.com/a/AATXAJyF_ZePZaIQ_r-egEWstIacIvWpNXKCYTBld6j7=s100",
+            "type": "person",
+            "person": {
+              "email": "tribegod.123@gmail.com"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: Management - Sidebar 로고 왼쪽 여백]",
+        "title": "Management - Sidebar 로고 왼쪽 여백",
+        "url": "https://www.notion.so/Management-Sidebar-87d34172a6c44ef6878cde22f826401e"
+      },
+      {
+        "page_id": "5f4f4fa7-93ae-4c42-b1a7-a41183634984",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "fedb15d5-0690-40bf-b74f-f84b26fffebc",
+            "name": "예솔 김",
+            "avatar_url": "https://lh3.googleusercontent.com/a/AATXAJyF_ZePZaIQ_r-egEWstIacIvWpNXKCYTBld6j7=s100",
+            "type": "person",
+            "person": {
+              "email": "tribegod.123@gmail.com"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: Problem/Contest 없을 때 타이틀 삭제]",
+        "title": "Problem/Contest 없을 때 타이틀 삭제",
+        "url": "https://www.notion.so/Problem-Contest-5f4f4fa793ae4c42b1a7a41183634984"
+      },
+      {
+        "page_id": "a95b23c2-659f-4545-9f54-bbee3a80711d",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "fedb15d5-0690-40bf-b74f-f84b26fffebc",
+            "name": "예솔 김",
+            "avatar_url": "https://lh3.googleusercontent.com/a/AATXAJyF_ZePZaIQ_r-egEWstIacIvWpNXKCYTBld6j7=s100",
+            "type": "person",
+            "person": {
+              "email": "tribegod.123@gmail.com"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: QA) Settings - Dropdown List 스크롤 바 이중 노출]",
+        "title": "QA) Settings - Dropdown List 스크롤 바 이중 노출",
+        "url": "https://www.notion.so/QA-Settings-Dropdown-List-a95b23c2659f45459f54bbee3a80711d"
+      },
+      {
+        "page_id": "3fe336b9-1701-41c3-8ecf-e3876fc10038",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "fedb15d5-0690-40bf-b74f-f84b26fffebc",
+            "name": "예솔 김",
+            "avatar_url": "https://lh3.googleusercontent.com/a/AATXAJyF_ZePZaIQ_r-egEWstIacIvWpNXKCYTBld6j7=s100",
+            "type": "person",
+            "person": {
+              "email": "tribegod.123@gmail.com"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: user contest 타이틀-카드 정렬]",
+        "title": "user contest 타이틀-카드 정렬",
+        "url": "https://www.notion.so/user-contest-3fe336b9170141c38ecfe3876fc10038"
+      },
+      {
+        "page_id": "0735e58e-8ad5-403f-9d6b-22fdcca5040b",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "fedb15d5-0690-40bf-b74f-f84b26fffebc",
+            "name": "예솔 김",
+            "avatar_url": "https://lh3.googleusercontent.com/a/AATXAJyF_ZePZaIQ_r-egEWstIacIvWpNXKCYTBld6j7=s100",
+            "type": "person",
+            "person": {
+              "email": "tribegod.123@gmail.com"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: List of contest 탭 폰트 사이즈 수정]",
+        "title": "List of contest 탭 폰트 사이즈 수정",
+        "url": "https://www.notion.so/List-of-contest-0735e58e8ad5403f9d6b22fdcca5040b"
+      },
+      {
+        "page_id": "fffef9cf-f545-80d2-9240-c895772d1625",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "fedb15d5-0690-40bf-b74f-f84b26fffebc",
+            "name": "예솔 김",
+            "avatar_url": "https://lh3.googleusercontent.com/a/AATXAJyF_ZePZaIQ_r-egEWstIacIvWpNXKCYTBld6j7=s100",
+            "type": "person",
+            "person": {
+              "email": "tribegod.123@gmail.com"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: (인증코드 이메일) 로고 사이즈가 큼]",
+        "title": "(인증코드 이메일) 로고 사이즈가 큼",
+        "url": "https://www.notion.so/fffef9cff54580d29240c895772d1625"
+      },
+      {
+        "page_id": "1544e82d-45a9-463d-982e-e1706225f51b",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "fedb15d5-0690-40bf-b74f-f84b26fffebc",
+            "name": "예솔 김",
+            "avatar_url": "https://lh3.googleusercontent.com/a/AATXAJyF_ZePZaIQ_r-egEWstIacIvWpNXKCYTBld6j7=s100",
+            "type": "person",
+            "person": {
+              "email": "tribegod.123@gmail.com"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: QA) 드롭다운 리스트 열었을 때 화살표 아이콘 회전]",
+        "title": "QA) 드롭다운 리스트 열었을 때 화살표 아이콘 회전",
+        "url": "https://www.notion.so/QA-1544e82d45a9463d982ee1706225f51b"
+      },
+      {
+        "page_id": "4cca55a3-b989-4071-a2dc-8c1f7e09ec33",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "fedb15d5-0690-40bf-b74f-f84b26fffebc",
+            "name": "예솔 김",
+            "avatar_url": "https://lh3.googleusercontent.com/a/AATXAJyF_ZePZaIQ_r-egEWstIacIvWpNXKCYTBld6j7=s100",
+            "type": "person",
+            "person": {
+              "email": "tribegod.123@gmail.com"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: 드롭다운 리스트 및 모달 노출 시 GNB 좌우 위치 이동드롭다운 리스트 및 모달 노출 GNB 좌우 위치 이동]",
+        "title": "드롭다운 리스트 및 모달 노출 시 GNB 좌우 위치 이동드롭다운 리스트 및 모달 노출 GNB 좌우 위치 이동",
+        "url": "https://www.notion.so/GNB-GNB-4cca55a3b9894071a2dc8c1f7e09ec33"
+      },
+      {
+        "page_id": "dd701c69-fd77-41f4-917f-e7f2061825ea",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "ca7a58cb-4e7a-40a8-9c73-a7a47f189fa7",
+            "name": "보성",
+            "avatar_url": "https://lh3.googleusercontent.com/a/ALm5wu2U_XcWHM6IR2-r7aEFzb3nent3oHSyq4jv985K=s100",
+            "type": "person",
+            "person": {
+              "email": "0heavensbee@gmail.com"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: Uptime Kuma, iris서버 조사하기]",
+        "title": "Uptime Kuma, iris서버 조사하기",
+        "url": "https://www.notion.so/Uptime-Kuma-iris-dd701c69fd7741f4917fe7f2061825ea"
+      },
+      {
+        "page_id": "09f7833a-4b8b-41e0-a9f8-40746943db7a",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "d1bfd5b3-bd0f-4043-8338-c8ef742f29af",
+            "name": "김명진",
+            "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/13d8af20-b0b5-4cf4-a9a3-4b9e159be388/IMG_6852.jpeg",
+            "type": "person",
+            "person": {
+              "email": "kimmjabc@g.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: contest table - 페이지네이션]",
+        "title": "contest table - 페이지네이션",
+        "url": "https://www.notion.so/contest-table-09f7833a4b8b41e0a9f840746943db7a"
+      },
+      {
+        "page_id": "a6f2cdd6-eecf-42b3-a073-1ec9b8dfa704",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "89dd763e-6e84-46eb-bb6a-9e5016841d9f",
+            "name": "태욱 김",
+            "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLibUvw59H2jJ7ModQR_GuaxgVoLOgUJQZm_Ehrew-n=s100",
+            "type": "person",
+            "person": {
+              "email": "tandyoon7@gmail.com"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: E2E Test 초기 구성(회원가입 프로세스)]",
+        "title": "E2E Test 초기 구성(회원가입 프로세스)",
+        "url": "https://www.notion.so/E2E-Test-a6f2cdd6eecf42b3a0731ec9b8dfa704"
+      },
+      {
+        "page_id": "8fcc03d5-1fa1-4a51-bd2b-798643cf7e44",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "f2c335fd-dc83-4db1-9fc0-76914cc7621b",
+            "name": "준구 이",
+            "avatar_url": "https://lh3.googleusercontent.com/a/AGNmyxZJ8r1Cw8iDhpTfj8ahj1ClUuDtVtDWmTSg7TGB=s100",
+            "type": "person",
+            "person": {
+              "email": "ocean314159@gmail.com"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: Management Problem List included icon 노출 추가]",
+        "title": "Management Problem List included icon 노출 추가",
+        "url": "https://www.notion.so/Management-Problem-List-included-icon-8fcc03d51fa14a51bd2b798643cf7e44"
+      },
+      {
+        "page_id": "8c601b27-b11b-48e6-96e7-d64379dd80b3",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "d1bfd5b3-bd0f-4043-8338-c8ef742f29af",
+            "name": "김명진",
+            "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/13d8af20-b0b5-4cf4-a9a3-4b9e159be388/IMG_6852.jpeg",
+            "type": "person",
+            "person": {
+              "email": "kimmjabc@g.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: 0812 피그마 아주 사소한 변경 사항들 전체]",
+        "title": "0812 피그마 아주 사소한 변경 사항들 전체",
+        "url": "https://www.notion.so/0812-8c601b27b11b48e696e7d64379dd80b3"
+      },
+      {
+        "page_id": "39dae79a-fc40-43e0-8418-3accbedad6c4",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "8d86a60e-6c05-4371-86c9-beef5509c467",
+            "name": "박지호",
+            "avatar_url": "https://lh3.googleusercontent.com/a/AEdFTp5YXF0I0XSuoYJj8b03Z7Lx_hce9wWeiyvi7bMA=s100",
+            "type": "person",
+            "person": {
+              "email": "jihopark09@naver.com"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: Contest Detail Info -Paginator 구현]",
+        "title": "Contest Detail Info -Paginator 구현",
+        "url": "https://www.notion.so/Contest-Detail-Info-Paginator-39dae79afc4043e084183accbedad6c4"
+      },
+      {
+        "page_id": "e49e55f9-9143-4664-948f-d6f7509509dc",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "f2c335fd-dc83-4db1-9fc0-76914cc7621b",
+            "name": "준구 이",
+            "avatar_url": "https://lh3.googleusercontent.com/a/AGNmyxZJ8r1Cw8iDhpTfj8ahj1ClUuDtVtDWmTSg7TGB=s100",
+            "type": "person",
+            "person": {
+              "email": "ocean314159@gmail.com"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: Contest Overall 유저 점수 Excel파일 Export]",
+        "title": "Contest Overall 유저 점수 Excel파일 Export",
+        "url": "https://www.notion.so/Contest-Overall-Excel-Export-e49e55f991434664948fd6f7509509dc"
+      },
+      {
+        "page_id": "ae8fea7d-426b-42a5-8f23-1a5c3bec8578",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "ab7e9453-b49f-40c8-b744-f05ea96ed8b6",
+            "name": "강은수",
+            "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/f976790f-b8bb-4eeb-9e31-d5c505e56406/미모티콘.jpg",
+            "type": "person",
+            "person": {
+              "email": "kanges802@g.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: Grafana Agent 볼륨 문제 없는지 확인하기]",
+        "title": "Grafana Agent 볼륨 문제 없는지 확인하기",
+        "url": "https://www.notion.so/Grafana-Agent-ae8fea7d426b42a58f231a5c3bec8578"
+      },
+      {
+        "page_id": "e26b0c41-5745-474c-a3e6-b647039945ac",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "8a089a1a-28f1-4380-9721-2205a8488543",
+            "name": "Activepieces",
+            "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/5d61a7cb-299e-46d7-9d21-c8d77b1aab18/256x256logo.svg",
+            "type": "bot",
+            "bot": {}
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: Stage서버의 Minio Console 아이디 비밀번호 secret 변수로 주입하기]",
+        "title": "Stage서버의 Minio Console 아이디 비밀번호 secret 변수로 주입하기",
+        "url": "https://www.notion.so/Stage-Minio-Console-secret-e26b0c415745474ca3e6b647039945ac"
+      },
+      {
+        "page_id": "5c2e6173-96a5-409d-a76b-df665f329aae",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "d1bfd5b3-bd0f-4043-8338-c8ef742f29af",
+            "name": "김명진",
+            "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/13d8af20-b0b5-4cf4-a9a3-4b9e159be388/IMG_6852.jpeg",
+            "type": "person",
+            "person": {
+              "email": "kimmjabc@g.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: Management Page 색상, 글씨체 수정]",
+        "title": "Management Page 색상, 글씨체 수정",
+        "url": "https://www.notion.so/Management-Page-5c2e617396a5409da76bdf665f329aae"
+      },
+      {
+        "page_id": "0ee2aa8d-7050-4cc1-bfc9-e5684be8e885",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "d1bfd5b3-bd0f-4043-8338-c8ef742f29af",
+            "name": "김명진",
+            "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/13d8af20-b0b5-4cf4-a9a3-4b9e159be388/IMG_6852.jpeg",
+            "type": "person",
+            "person": {
+              "email": "kimmjabc@g.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: Contest Detail - Score 표시]",
+        "title": "Contest Detail - Score 표시",
+        "url": "https://www.notion.so/Contest-Detail-Score-0ee2aa8d70504cc1bfc9e5684be8e885"
+      },
+      {
+        "page_id": "bb808593-5379-4e5d-93b1-1f2eee643d21",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "d1bfd5b3-bd0f-4043-8338-c8ef742f29af",
+            "name": "김명진",
+            "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/13d8af20-b0b5-4cf4-a9a3-4b9e159be388/IMG_6852.jpeg",
+            "type": "person",
+            "person": {
+              "email": "kimmjabc@g.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: Contest Card - join now로 타이틀 변경]",
+        "title": "Contest Card - join now로 타이틀 변경",
+        "url": "https://www.notion.so/Contest-Card-join-now-bb80859353794e5d93b11f2eee643d21"
+      },
+      {
+        "page_id": "c92b0e00-989f-4fd9-b6b9-711b4d72a743",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "d1bfd5b3-bd0f-4043-8338-c8ef742f29af",
+            "name": "김명진",
+            "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/13d8af20-b0b5-4cf4-a9a3-4b9e159be388/IMG_6852.jpeg",
+            "type": "person",
+            "person": {
+              "email": "kimmjabc@g.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: Problem List - Table - result 표시 / result 필터]",
+        "title": "Problem List - Table - result 표시 / result 필터",
+        "url": "https://www.notion.so/Problem-List-Table-result-result-c92b0e00989f4fd9b6b9711b4d72a743"
+      },
+      {
+        "page_id": "6948668f-a435-4d73-94a0-7513b2a79ffb",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "d1bfd5b3-bd0f-4043-8338-c8ef742f29af",
+            "name": "김명진",
+            "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/13d8af20-b0b5-4cf4-a9a3-4b9e159be388/IMG_6852.jpeg",
+            "type": "person",
+            "person": {
+              "email": "kimmjabc@g.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: Problem List - language / level 필터]",
+        "title": "Problem List - language / level 필터",
+        "url": "https://www.notion.so/Problem-List-language-level-6948668fa4354d7394a07513b2a79ffb"
+      },
+      {
+        "page_id": "9e8bc151-d3dc-45d3-858c-fb07fbb5cfa9",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "d1bfd5b3-bd0f-4043-8338-c8ef742f29af",
+            "name": "김명진",
+            "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/13d8af20-b0b5-4cf4-a9a3-4b9e159be388/IMG_6852.jpeg",
+            "type": "person",
+            "person": {
+              "email": "kimmjabc@g.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: Problem Editor - Test 버튼, 테스트케이스 결과창 UI]",
+        "title": "Problem Editor - Test 버튼, 테스트케이스 결과창 UI",
+        "url": "https://www.notion.so/Problem-Editor-Test-UI-9e8bc151d3dc45d3858cfb07fbb5cfa9"
+      },
+      {
+        "page_id": "b211971c-e53f-4dac-9520-ee3f4d6fb3a9",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "d1bfd5b3-bd0f-4043-8338-c8ef742f29af",
+            "name": "김명진",
+            "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/13d8af20-b0b5-4cf4-a9a3-4b9e159be388/IMG_6852.jpeg",
+            "type": "person",
+            "person": {
+              "email": "kimmjabc@g.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: Problem List - 서치바 위치 변경]",
+        "title": "Problem List - 서치바 위치 변경",
+        "url": "https://www.notion.so/Problem-List-b211971ce53f4dac9520ee3f4d6fb3a9"
+      },
+      {
+        "page_id": "62849d84-7184-4398-8553-ba8bf4cb08d2",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "8a089a1a-28f1-4380-9721-2205a8488543",
+            "name": "Activepieces",
+            "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/5d61a7cb-299e-46d7-9d21-c8d77b1aab18/256x256logo.svg",
+            "type": "bot",
+            "bot": {}
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: [Bug]: docker-compose 의 minio 컨테이너가 stage환경과 local환경에서 혼용되어 생긴 minio console 접근 문제 ]",
+        "title": "[Bug]: docker-compose 의 minio 컨테이너가 stage환경과 local환경에서 혼용되어 생긴 minio console 접근 문제 ",
+        "url": "https://www.notion.so/Bug-docker-compose-minio-stage-local-minio-console-62849d84718443988553ba8bf4cb08d2"
+      },
+      {
+        "page_id": "1a7c6b41-b110-4458-a1e9-3ffb01f30266",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "ca7a58cb-4e7a-40a8-9c73-a7a47f189fa7",
+            "name": "보성",
+            "avatar_url": "https://lh3.googleusercontent.com/a/ALm5wu2U_XcWHM6IR2-r7aEFzb3nent3oHSyq4jv985K=s100",
+            "type": "person",
+            "person": {
+              "email": "0heavensbee@gmail.com"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: 코드당 아키텍쳐 문서 읽기 + 질문 3개 준비하기]",
+        "title": "코드당 아키텍쳐 문서 읽기 + 질문 3개 준비하기",
+        "url": "https://www.notion.so/3-1a7c6b41b1104458a1e93ffb01f30266"
+      },
+      {
+        "page_id": "a24ece0f-edd3-4881-ad31-41509b764b8b",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "416ab79c-f36e-4e79-80c5-313e9c10fb4b",
+            "name": "김 동훈",
+            "avatar_url": null,
+            "type": "person",
+            "person": {
+              "email": "kim12144532@gmail.com"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: Stage 서버환경을 Production 환경과 비슷하게 만들기]",
+        "title": "Stage 서버환경을 Production 환경과 비슷하게 만들기",
+        "url": "https://www.notion.so/Stage-Production-a24ece0fedd34881ad3141509b764b8b"
+      },
+      {
+        "page_id": "52c7e3c5-b7c1-4488-b414-399a410b42db",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "ab7e9453-b49f-40c8-b744-f05ea96ed8b6",
+            "name": "강은수",
+            "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/f976790f-b8bb-4eeb-9e31-d5c505e56406/미모티콘.jpg",
+            "type": "person",
+            "person": {
+              "email": "kanges802@g.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: terraform force-unlock ID Terraform state lock, dynamodb 관련 문서화]",
+        "title": "terraform force-unlock ID Terraform state lock, dynamodb 관련 문서화",
+        "url": "https://www.notion.so/terraform-force-unlock-ID-Terraform-state-lock-dynamodb-52c7e3c5b7c14488b414399a410b42db"
+      },
+      {
+        "page_id": "195a443b-c277-45c3-bdea-ef6dcd0e0941",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "ab7e9453-b49f-40c8-b744-f05ea96ed8b6",
+            "name": "강은수",
+            "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/f976790f-b8bb-4eeb-9e31-d5c505e56406/미모티콘.jpg",
+            "type": "person",
+            "person": {
+              "email": "kanges802@g.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: ECS API Task Definition 문서화하기]",
+        "title": "ECS API Task Definition 문서화하기",
+        "url": "https://www.notion.so/ECS-API-Task-Definition-195a443bc27745c3bdeaef6dcd0e0941"
+      },
+      {
+        "page_id": "9504e94a-95b8-41c1-8626-a90bdd97f622",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "ab7e9453-b49f-40c8-b744-f05ea96ed8b6",
+            "name": "강은수",
+            "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/f976790f-b8bb-4eeb-9e31-d5c505e56406/미모티콘.jpg",
+            "type": "person",
+            "person": {
+              "email": "kanges802@g.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: typescript에서 trace/metric 수집 부문 stage는 제외하기 및 Terraform에서 APP_ENV 제외하기]",
+        "title": "typescript에서 trace/metric 수집 부문 stage는 제외하기 및 Terraform에서 APP_ENV 제외하기",
+        "url": "https://www.notion.so/typescript-trace-metric-stage-Terraform-APP_ENV-9504e94a95b841c18626a90bdd97f622"
+      },
+      {
+        "page_id": "c35eef6f-a47f-4c0d-962f-4ee75753a0af",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "678136ed-8415-49d1-90df-b09ba5844831",
+            "name": "구성현",
+            "avatar_url": null,
+            "type": "person",
+            "person": {
+              "email": "rn0731@g.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: Github Action - Terraform project 간 dependency]",
+        "title": "Github Action - Terraform project 간 dependency",
+        "url": "https://www.notion.so/Github-Action-Terraform-project-dependency-c35eef6fa47f4c0d962f4ee75753a0af"
+      },
+      {
+        "page_id": "1326dc73-7f68-4283-872e-9a04d34ce899",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "93f9612b-5837-4ad5-9cc4-9d99ca749aba",
+            "name": "재현 김",
+            "avatar_url": null,
+            "type": "person",
+            "person": {
+              "email": "kjhkk1020@o365.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: mocha 명령어 이용해 테스트 실행 시 테스트 전용 DB로 연결]",
+        "title": "mocha 명령어 이용해 테스트 실행 시 테스트 전용 DB로 연결",
+        "url": "https://www.notion.so/mocha-DB-1326dc737f684283872e9a04d34ce899"
+      },
+      {
+        "page_id": "fa1635e2-3330-40a0-84d5-d7ba8bb773c4",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "ab7e9453-b49f-40c8-b744-f05ea96ed8b6",
+            "name": "강은수",
+            "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/f976790f-b8bb-4eeb-9e31-d5c505e56406/미모티콘.jpg",
+            "type": "person",
+            "person": {
+              "email": "kanges802@g.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: Cloudfront 쓰면 Bruno API, GraphQL API는 되는데, pnpm compile만 안되는 원인을 파악하기]",
+        "title": "Cloudfront 쓰면 Bruno API, GraphQL API는 되는데, pnpm compile만 안되는 원인을 파악하기",
+        "url": "https://www.notion.so/Cloudfront-Bruno-API-GraphQL-API-pnpm-compile-fa1635e2333040a084d5d7ba8bb773c4"
+      },
+      {
+        "page_id": "6928df6b-e8da-4527-9a59-0c8fdfa87329",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "93f9612b-5837-4ad5-9cc4-9d99ca749aba",
+            "name": "재현 김",
+            "avatar_url": null,
+            "type": "person",
+            "person": {
+              "email": "kjhkk1020@o365.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: pino logger에서 raw query 출력되는 로그 레벨 삭제]",
+        "title": "pino logger에서 raw query 출력되는 로그 레벨 삭제",
+        "url": "https://www.notion.so/pino-logger-raw-query-6928df6be8da45279a590c8fdfa87329"
+      },
+      {
+        "page_id": "75c2c3e9-2898-49f4-b852-fa9a662d1c09",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "93f9612b-5837-4ad5-9cc4-9d99ca749aba",
+            "name": "재현 김",
+            "avatar_url": null,
+            "type": "person",
+            "person": {
+              "email": "kjhkk1020@o365.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: libs/cache, libs/constant]",
+        "title": "libs/cache, libs/constant",
+        "url": "https://www.notion.so/libs-cache-libs-constant-75c2c3e9289849f4b852fa9a662d1c09"
+      },
+      {
+        "page_id": "4415461e-0c3b-4ddd-bed2-8153afd17c14",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "93f9612b-5837-4ad5-9cc4-9d99ca749aba",
+            "name": "재현 김",
+            "avatar_url": null,
+            "type": "person",
+            "person": {
+              "email": "kjhkk1020@o365.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: libs/auth]",
+        "title": "libs/auth",
+        "url": "https://www.notion.so/libs-auth-4415461e0c3b4dddbed28153afd17c14"
+      },
+      {
+        "page_id": "5b5ff53f-786a-4162-ad0e-51cfae7a7fb2",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "93f9612b-5837-4ad5-9cc4-9d99ca749aba",
+            "name": "재현 김",
+            "avatar_url": null,
+            "type": "person",
+            "person": {
+              "email": "kjhkk1020@o365.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: 폴더 구조 문서화]",
+        "title": "폴더 구조 문서화",
+        "url": "https://www.notion.so/5b5ff53f786a4162ad0e51cfae7a7fb2"
+      },
+      {
+        "page_id": "72eb8473-a367-4d5c-8541-a1cca461159e",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "93f9612b-5837-4ad5-9cc4-9d99ca749aba",
+            "name": "재현 김",
+            "avatar_url": null,
+            "type": "person",
+            "person": {
+              "email": "kjhkk1020@o365.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: 백엔드 온보딩 가이드]",
+        "title": "백엔드 온보딩 가이드",
+        "url": "https://www.notion.so/72eb8473a3674d5c8541a1cca461159e"
+      },
+      {
+        "page_id": "1e0c73ec-1e32-4205-bf98-bc167ef34587",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "93f9612b-5837-4ad5-9cc4-9d99ca749aba",
+            "name": "재현 김",
+            "avatar_url": null,
+            "type": "person",
+            "person": {
+              "email": "kjhkk1020@o365.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: 백엔드 코드 문서화]",
+        "title": "백엔드 코드 문서화",
+        "url": "https://www.notion.so/1e0c73ec1e324205bf98bc167ef34587"
+      },
+      {
+        "page_id": "d453beeb-0ef5-472b-9ec8-bf7e07bf19f4",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "d2c95201-099b-4d21-96ca-dd4544789d95",
+            "name": "김일건",
+            "avatar_url": "https://lh3.googleusercontent.com/a/ALm5wu12-hfBZD1JPmnA7iWcS7aU2d0kqTt41U3-gReG=s100",
+            "type": "person",
+            "person": {
+              "email": "kig0824@g.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "필수 속성(팀, 상태, 우선순위, 태그)을 모두 지정해주세요! [작업 이름: 로그 가독성 향상]",
+        "title": "로그 가독성 향상",
+        "url": "https://www.notion.so/d453beeb0ef5472b9ec8bf7e07bf19f4"
+      }
+    ],
+    "ONGOING_NECESSARY_FIELD": [
+      {
+        "page_id": "87661bf3-0aa4-4d6b-8fe1-7e591869b3de",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "ab7e9453-b49f-40c8-b744-f05ea96ed8b6",
+            "name": "강은수",
+            "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/f976790f-b8bb-4eeb-9e31-d5c505e56406/미모티콘.jpg",
+            "type": "person",
+            "person": {
+              "email": "kanges802@g.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "진행중인 Task는 프로젝트, 담당자, 마감일을 모두 지정해주세요! [작업 이름: ASG에 ]",
+        "title": "ASG에 ",
+        "url": "https://www.notion.so/ASG-autoscaling-CreateOrUpdateTags-87661bf30aa44d6b8fe17e591869b3de"
+      },
+      {
+        "page_id": "6eb5968a-931a-4931-adb1-21b71c9b8cef",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "340cddce-8f7c-4f98-a66b-dea01db55e35",
+            "name": "Junhyun Lee",
+            "avatar_url": null,
+            "type": "person",
+            "person": {
+              "email": "dftxrtmm2m@privaterelay.appleid.com"
+            }
+          }
+        ],
+        "comment_text": "진행중인 Task는 프로젝트, 담당자, 마감일을 모두 지정해주세요! [작업 이름: Codedang환경에서 gateway vpc endpoint를 활용하여 ECS↔S3 통신 적용하기]",
+        "title": "Codedang환경에서 gateway vpc endpoint를 활용하여 ECS↔S3 통신 적용하기",
+        "url": "https://www.notion.so/Codedang-gateway-vpc-endpoint-ECS-S3-6eb5968a931a4931adb121b71c9b8cef"
+      },
+      {
+        "page_id": "62849d84-7184-4398-8553-ba8bf4cb08d2",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "8a089a1a-28f1-4380-9721-2205a8488543",
+            "name": "Activepieces",
+            "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/5d61a7cb-299e-46d7-9d21-c8d77b1aab18/256x256logo.svg",
+            "type": "bot",
+            "bot": {}
+          }
+        ],
+        "comment_text": "진행중인 Task는 프로젝트, 담당자, 마감일을 모두 지정해주세요! [작업 이름: [Bug]: docker-compose 의 minio 컨테이너가 stage환경과 local환경에서 혼용되어 생긴 minio console 접근 문제 ]",
+        "title": "[Bug]: docker-compose 의 minio 컨테이너가 stage환경과 local환경에서 혼용되어 생긴 minio console 접근 문제 ",
+        "url": "https://www.notion.so/Bug-docker-compose-minio-stage-local-minio-console-62849d84718443988553ba8bf4cb08d2"
+      },
+      {
+        "page_id": "a24ece0f-edd3-4881-ad31-41509b764b8b",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "416ab79c-f36e-4e79-80c5-313e9c10fb4b",
+            "name": "김 동훈",
+            "avatar_url": null,
+            "type": "person",
+            "person": {
+              "email": "kim12144532@gmail.com"
+            }
+          }
+        ],
+        "comment_text": "진행중인 Task는 프로젝트, 담당자, 마감일을 모두 지정해주세요! [작업 이름: Stage 서버환경을 Production 환경과 비슷하게 만들기]",
+        "title": "Stage 서버환경을 Production 환경과 비슷하게 만들기",
+        "url": "https://www.notion.so/Stage-Production-a24ece0fedd34881ad3141509b764b8b"
+      },
+      {
+        "page_id": "195a443b-c277-45c3-bdea-ef6dcd0e0941",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "ab7e9453-b49f-40c8-b744-f05ea96ed8b6",
+            "name": "강은수",
+            "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/f976790f-b8bb-4eeb-9e31-d5c505e56406/미모티콘.jpg",
+            "type": "person",
+            "person": {
+              "email": "kanges802@g.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "진행중인 Task는 프로젝트, 담당자, 마감일을 모두 지정해주세요! [작업 이름: ECS API Task Definition 문서화하기]",
+        "title": "ECS API Task Definition 문서화하기",
+        "url": "https://www.notion.so/ECS-API-Task-Definition-195a443bc27745c3bdeaef6dcd0e0941"
+      },
+      {
+        "page_id": "6928df6b-e8da-4527-9a59-0c8fdfa87329",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "93f9612b-5837-4ad5-9cc4-9d99ca749aba",
+            "name": "재현 김",
+            "avatar_url": null,
+            "type": "person",
+            "person": {
+              "email": "kjhkk1020@o365.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "진행중인 Task는 프로젝트, 담당자, 마감일을 모두 지정해주세요! [작업 이름: pino logger에서 raw query 출력되는 로그 레벨 삭제]",
+        "title": "pino logger에서 raw query 출력되는 로그 레벨 삭제",
+        "url": "https://www.notion.so/pino-logger-raw-query-6928df6be8da45279a590c8fdfa87329"
+      },
+      {
+        "page_id": "75c2c3e9-2898-49f4-b852-fa9a662d1c09",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "93f9612b-5837-4ad5-9cc4-9d99ca749aba",
+            "name": "재현 김",
+            "avatar_url": null,
+            "type": "person",
+            "person": {
+              "email": "kjhkk1020@o365.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "진행중인 Task는 프로젝트, 담당자, 마감일을 모두 지정해주세요! [작업 이름: libs/cache, libs/constant]",
+        "title": "libs/cache, libs/constant",
+        "url": "https://www.notion.so/libs-cache-libs-constant-75c2c3e9289849f4b852fa9a662d1c09"
+      },
+      {
+        "page_id": "4415461e-0c3b-4ddd-bed2-8153afd17c14",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "93f9612b-5837-4ad5-9cc4-9d99ca749aba",
+            "name": "재현 김",
+            "avatar_url": null,
+            "type": "person",
+            "person": {
+              "email": "kjhkk1020@o365.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "진행중인 Task는 프로젝트, 담당자, 마감일을 모두 지정해주세요! [작업 이름: libs/auth]",
+        "title": "libs/auth",
+        "url": "https://www.notion.so/libs-auth-4415461e0c3b4dddbed28153afd17c14"
+      },
+      {
+        "page_id": "5b5ff53f-786a-4162-ad0e-51cfae7a7fb2",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "93f9612b-5837-4ad5-9cc4-9d99ca749aba",
+            "name": "재현 김",
+            "avatar_url": null,
+            "type": "person",
+            "person": {
+              "email": "kjhkk1020@o365.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "진행중인 Task는 프로젝트, 담당자, 마감일을 모두 지정해주세요! [작업 이름: 폴더 구조 문서화]",
+        "title": "폴더 구조 문서화",
+        "url": "https://www.notion.so/5b5ff53f786a4162ad0e51cfae7a7fb2"
+      },
+      {
+        "page_id": "72eb8473-a367-4d5c-8541-a1cca461159e",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "93f9612b-5837-4ad5-9cc4-9d99ca749aba",
+            "name": "재현 김",
+            "avatar_url": null,
+            "type": "person",
+            "person": {
+              "email": "kjhkk1020@o365.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "진행중인 Task는 프로젝트, 담당자, 마감일을 모두 지정해주세요! [작업 이름: 백엔드 온보딩 가이드]",
+        "title": "백엔드 온보딩 가이드",
+        "url": "https://www.notion.so/72eb8473a3674d5c8541a1cca461159e"
+      },
+      {
+        "page_id": "1e0c73ec-1e32-4205-bf98-bc167ef34587",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "93f9612b-5837-4ad5-9cc4-9d99ca749aba",
+            "name": "재현 김",
+            "avatar_url": null,
+            "type": "person",
+            "person": {
+              "email": "kjhkk1020@o365.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "진행중인 Task는 프로젝트, 담당자, 마감일을 모두 지정해주세요! [작업 이름: 백엔드 코드 문서화]",
+        "title": "백엔드 코드 문서화",
+        "url": "https://www.notion.so/1e0c73ec1e324205bf98bc167ef34587"
+      },
+      {
+        "page_id": "d453beeb-0ef5-472b-9ec8-bf7e07bf19f4",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "d2c95201-099b-4d21-96ca-dd4544789d95",
+            "name": "김일건",
+            "avatar_url": "https://lh3.googleusercontent.com/a/ALm5wu12-hfBZD1JPmnA7iWcS7aU2d0kqTt41U3-gReG=s100",
+            "type": "person",
+            "person": {
+              "email": "kig0824@g.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "진행중인 Task는 프로젝트, 담당자, 마감일을 모두 지정해주세요! [작업 이름: 로그 가독성 향상]",
+        "title": "로그 가독성 향상",
+        "url": "https://www.notion.so/d453beeb0ef5472b9ec8bf7e07bf19f4"
+      }
+    ],
+    "DUE_DATE_PASSED": [
+      {
+        "page_id": "c275a757-bc68-44f9-a9e1-a103b8a839d2",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "8d86a60e-6c05-4371-86c9-beef5509c467",
+            "name": "박지호",
+            "avatar_url": "https://lh3.googleusercontent.com/a/AEdFTp5YXF0I0XSuoYJj8b03Z7Lx_hce9wWeiyvi7bMA=s100",
+            "type": "person",
+            "person": {
+              "email": "jihopark09@naver.com"
+            }
+          }
+        ],
+        "comment_text": "마감일이 지났어요! 완료되었는지 확인해주시고, 완료되지 않았다면 마감일을 다시 설정해주세요. [작업 이름: Settings 리팩토링]",
+        "title": "Settings 리팩토링",
+        "url": "https://www.notion.so/Settings-c275a757bc6844f9a9e1a103b8a839d2"
+      },
+      {
+        "page_id": "6eb5968a-931a-4931-adb1-21b71c9b8cef",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "340cddce-8f7c-4f98-a66b-dea01db55e35",
+            "name": "Junhyun Lee",
+            "avatar_url": null,
+            "type": "person",
+            "person": {
+              "email": "dftxrtmm2m@privaterelay.appleid.com"
+            }
+          },
+          {
+            "object": "user",
+            "id": "ca7a58cb-4e7a-40a8-9c73-a7a47f189fa7",
+            "name": "보성",
+            "avatar_url": "https://lh3.googleusercontent.com/a/ALm5wu2U_XcWHM6IR2-r7aEFzb3nent3oHSyq4jv985K=s100",
+            "type": "person",
+            "person": {
+              "email": "0heavensbee@gmail.com"
+            }
+          }
+        ],
+        "comment_text": "마감일이 지났어요! 완료되었는지 확인해주시고, 완료되지 않았다면 마감일을 다시 설정해주세요. [작업 이름: Codedang환경에서 gateway vpc endpoint를 활용하여 ECS↔S3 통신 적용하기]",
+        "title": "Codedang환경에서 gateway vpc endpoint를 활용하여 ECS↔S3 통신 적용하기",
+        "url": "https://www.notion.so/Codedang-gateway-vpc-endpoint-ECS-S3-6eb5968a931a4931adb121b71c9b8cef"
+      },
+      {
+        "page_id": "400a5691-e80c-45bb-bd7c-068e7ffcb72b",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "89dd763e-6e84-46eb-bb6a-9e5016841d9f",
+            "name": "태욱 김",
+            "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLibUvw59H2jJ7ModQR_GuaxgVoLOgUJQZm_Ehrew-n=s100",
+            "type": "person",
+            "person": {
+              "email": "tandyoon7@gmail.com"
+            }
+          },
+          {
+            "object": "user",
+            "id": "72b26496-58c7-4d8d-b7e3-2eb7dae05aa0",
+            "name": "고민채",
+            "avatar_url": "https://lh6.googleusercontent.com/-FMoueskYKAo/AAAAAAAAAAI/AAAAAAAAADY/AMZuucl_6-15Qrx2ietkA3i22T2gIXmD4g/photo.jpg",
+            "type": "person",
+            "person": {
+              "email": "mcycgo@g.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "마감일이 지났어요! 완료되었는지 확인해주시고, 완료되지 않았다면 마감일을 다시 설정해주세요. [작업 이름: Problem Edit에서 user의 submission이 하나라도 존재할 때 testcase 부분 수정 불가하도록 수정]",
+        "title": "Problem Edit에서 user의 submission이 하나라도 존재할 때 testcase 부분 수정 불가하도록 수정",
+        "url": "https://www.notion.so/Problem-Edit-user-submission-testcase-400a5691e80c45bbbd7c068e7ffcb72b"
+      },
+      {
+        "page_id": "ebd6d247-aea4-46e2-b01e-62d2738bb597",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "89dd763e-6e84-46eb-bb6a-9e5016841d9f",
+            "name": "태욱 김",
+            "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLibUvw59H2jJ7ModQR_GuaxgVoLOgUJQZm_Ehrew-n=s100",
+            "type": "person",
+            "person": {
+              "email": "tandyoon7@gmail.com"
+            }
+          },
+          {
+            "object": "user",
+            "id": "ed954297-ff67-4f33-915c-0a3c61c8decc",
+            "name": "권서진",
+            "avatar_url": null,
+            "type": "person",
+            "person": {
+              "email": "seojin3154@g.skku.edu"
+            }
+          },
+          {
+            "object": "user",
+            "id": "93f9612b-5837-4ad5-9cc4-9d99ca749aba",
+            "name": "재현 김",
+            "avatar_url": null,
+            "type": "person",
+            "person": {
+              "email": "kjhkk1020@o365.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "마감일이 지났어요! 완료되었는지 확인해주시고, 완료되지 않았다면 마감일을 다시 설정해주세요. [작업 이름: Admin problem > visible일 때만 problem overall의 submission이 노출됨. (Problem) - Contest는 test해보니 정상 노출됩니다]",
+        "title": "Admin problem > visible일 때만 problem overall의 submission이 노출됨. (Problem) - Contest는 test해보니 정상 노출됩니다",
+        "url": "https://www.notion.so/Admin-problem-visible-problem-overall-submission-Problem-Contest-test-ebd6d247aea446e2b01e62d2738bb597"
+      },
+      {
+        "page_id": "157b7dd1-5a55-4ca3-864c-6e83448c4833",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "89dd763e-6e84-46eb-bb6a-9e5016841d9f",
+            "name": "태욱 김",
+            "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLibUvw59H2jJ7ModQR_GuaxgVoLOgUJQZm_Ehrew-n=s100",
+            "type": "person",
+            "person": {
+              "email": "tandyoon7@gmail.com"
+            }
+          },
+          {
+            "object": "user",
+            "id": "ed6a23aa-40ca-4575-97e4-f27079a3e0bf",
+            "name": "박주형",
+            "avatar_url": "https://lh3.googleusercontent.com/a-/AOh14Gg8UjNqI-jSmBYkDcJNBdun7JVPVPkUVa0fSyUHjg=s100",
+            "type": "person",
+            "person": {
+              "email": "juhyeongpark2005@gmail.com"
+            }
+          }
+        ],
+        "comment_text": "마감일이 지났어요! 완료되었는지 확인해주시고, 완료되지 않았다면 마감일을 다시 설정해주세요. [작업 이름: 최종 QA) sign up - first major에서 hover 시 full name 나오게끔 (툴팁)]",
+        "title": "최종 QA) sign up - first major에서 hover 시 full name 나오게끔 (툴팁)",
+        "url": "https://www.notion.so/QA-sign-up-first-major-hover-full-name-157b7dd15a554ca3864c6e83448c4833"
+      },
+      {
+        "page_id": "dd701c69-fd77-41f4-917f-e7f2061825ea",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "ca7a58cb-4e7a-40a8-9c73-a7a47f189fa7",
+            "name": "보성",
+            "avatar_url": "https://lh3.googleusercontent.com/a/ALm5wu2U_XcWHM6IR2-r7aEFzb3nent3oHSyq4jv985K=s100",
+            "type": "person",
+            "person": {
+              "email": "0heavensbee@gmail.com"
+            }
+          }
+        ],
+        "comment_text": "마감일이 지났어요! 완료되었는지 확인해주시고, 완료되지 않았다면 마감일을 다시 설정해주세요. [작업 이름: Uptime Kuma, iris서버 조사하기]",
+        "title": "Uptime Kuma, iris서버 조사하기",
+        "url": "https://www.notion.so/Uptime-Kuma-iris-dd701c69fd7741f4917fe7f2061825ea"
+      },
+      {
+        "page_id": "38e7f538-ac6e-4e19-ba81-7667c14f6bff",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "800fd582-1a07-4738-8bac-f26e080ffa1e",
+            "name": "이다용",
+            "avatar_url": "https://lh3.googleusercontent.com/a/AGNmyxbjMGnjo5Dj0TYkloFgNg1LKRqXjVDrN9FcXOMA=s100",
+            "type": "person",
+            "person": {
+              "email": "dayongkr@g.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "마감일이 지났어요! 완료되었는지 확인해주시고, 완료되지 않았다면 마감일을 다시 설정해주세요. [작업 이름: Next.JS 재발급 로직 테스트 코드 추가 및 개선]",
+        "title": "Next.JS 재발급 로직 테스트 코드 추가 및 개선",
+        "url": "https://www.notion.so/Next-JS-38e7f538ac6e4e19ba817667c14f6bff"
+      },
+      {
+        "page_id": "1a7c6b41-b110-4458-a1e9-3ffb01f30266",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "ca7a58cb-4e7a-40a8-9c73-a7a47f189fa7",
+            "name": "보성",
+            "avatar_url": "https://lh3.googleusercontent.com/a/ALm5wu2U_XcWHM6IR2-r7aEFzb3nent3oHSyq4jv985K=s100",
+            "type": "person",
+            "person": {
+              "email": "0heavensbee@gmail.com"
+            }
+          }
+        ],
+        "comment_text": "마감일이 지났어요! 완료되었는지 확인해주시고, 완료되지 않았다면 마감일을 다시 설정해주세요. [작업 이름: 코드당 아키텍쳐 문서 읽기 + 질문 3개 준비하기]",
+        "title": "코드당 아키텍쳐 문서 읽기 + 질문 3개 준비하기",
+        "url": "https://www.notion.so/3-1a7c6b41b1104458a1e93ffb01f30266"
+      },
+      {
+        "page_id": "a24ece0f-edd3-4881-ad31-41509b764b8b",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "416ab79c-f36e-4e79-80c5-313e9c10fb4b",
+            "name": "김 동훈",
+            "avatar_url": null,
+            "type": "person",
+            "person": {
+              "email": "kim12144532@gmail.com"
+            }
+          }
+        ],
+        "comment_text": "마감일이 지났어요! 완료되었는지 확인해주시고, 완료되지 않았다면 마감일을 다시 설정해주세요. [작업 이름: Stage 서버환경을 Production 환경과 비슷하게 만들기]",
+        "title": "Stage 서버환경을 Production 환경과 비슷하게 만들기",
+        "url": "https://www.notion.so/Stage-Production-a24ece0fedd34881ad3141509b764b8b"
+      }
+    ],
+    "ONE_DAY_LEFT": [
+      {
+        "page_id": "104ef9cf-f545-803d-977a-ee702110c811",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "497d96b3-122e-4b2e-a968-a689ec14b830",
+            "name": "Jimin Ha",
+            "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/de1c3cf4-a482-4e29-ba7f-61b88c49ee12/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-07-30_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_4.03.02.png",
+            "type": "person",
+            "person": {
+              "email": "jimin9038@g.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "지정하신 마감일이 하루 남았어요! 🔥[작업 이름: Client Problem 모듈, Submission 모듈 예외처리 구조 개선]",
+        "title": "Client Problem 모듈, Submission 모듈 예외처리 구조 개선",
+        "url": "https://www.notion.so/Client-Problem-Submission-104ef9cff545803d977aee702110c811"
+      },
+      {
+        "page_id": "103ef9cf-f545-80da-a55e-f79c6f2d2b37",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "93f9612b-5837-4ad5-9cc4-9d99ca749aba",
+            "name": "재현 김",
+            "avatar_url": null,
+            "type": "person",
+            "person": {
+              "email": "kjhkk1020@o365.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "지정하신 마감일이 하루 남았어요! 🔥[작업 이름: Admin Contest, Group 모듈 예외처리 구조 개선]",
+        "title": "Admin Contest, Group 모듈 예외처리 구조 개선",
+        "url": "https://www.notion.so/Admin-Contest-Group-103ef9cff54580daa55ef79c6f2d2b37"
+      },
+      {
+        "page_id": "103ef9cf-f545-8045-9781-ec80f5fbfbbe",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "93f9612b-5837-4ad5-9cc4-9d99ca749aba",
+            "name": "재현 김",
+            "avatar_url": null,
+            "type": "person",
+            "person": {
+              "email": "kjhkk1020@o365.skku.edu"
+            }
+          },
+          {
+            "object": "user",
+            "id": "d790a43b-0047-4998-b7db-c3731f0ba30c",
+            "name": "성균관대학교박지윤",
+            "avatar_url": "https://lh3.googleusercontent.com/a/AATXAJwWHjbdUHJplANlV61TKm3FCWXh6Tdm4BPN57rt=s100",
+            "type": "person",
+            "person": {
+              "email": "nicole2974@g.skku.edu"
+            }
+          },
+          {
+            "object": "user",
+            "id": "128bbbe4-555d-48db-90eb-e7e83ed84c8f",
+            "name": "강민석",
+            "avatar_url": "https://lh3.googleusercontent.com/a/AGNmyxY-1jY0sVXdPCKhcI0u5OQyJ4F_eQfWXiqorTYw=s100",
+            "type": "person",
+            "person": {
+              "email": "min.seok@g.skku.edu"
+            }
+          },
+          {
+            "object": "user",
+            "id": "654c4329-3a3c-48c2-8465-8208fb5262c7",
+            "name": "권태환",
+            "avatar_url": null,
+            "type": "person",
+            "person": {
+              "email": "kwon99814@naver.com"
+            }
+          },
+          {
+            "object": "user",
+            "id": "87ae1d7a-8c1e-4461-8744-4a12f98c2b93",
+            "name": "이원혁 성균관대학교",
+            "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKentHjcoPopNMNhTRbB5jiiQCUnRX2cxZl9DiD7PB8=s100",
+            "type": "person",
+            "person": {
+              "email": "won2283@g.skku.edu"
+            }
+          },
+          {
+            "object": "user",
+            "id": "497d96b3-122e-4b2e-a968-a689ec14b830",
+            "name": "Jimin Ha",
+            "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/de1c3cf4-a482-4e29-ba7f-61b88c49ee12/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-07-30_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_4.03.02.png",
+            "type": "person",
+            "person": {
+              "email": "jimin9038@g.skku.edu"
+            }
+          },
+          {
+            "object": "user",
+            "id": "07e26641-0896-471d-b5d0-0247bc9a299b",
+            "name": "박지수",
+            "avatar_url": "https://lh3.googleusercontent.com/a/AATXAJyNys90D4wA6CY8EHi3-jIQ5YDkrB1LzQXuwWFz=s100",
+            "type": "person",
+            "person": {
+              "email": "idpjs2000@g.skku.edu"
+            }
+          }
+        ],
+        "comment_text": "지정하신 마감일이 하루 남았어요! 🔥[작업 이름: 백엔드 리팩토링: 예외처리 구조 개선]",
+        "title": "백엔드 리팩토링: 예외처리 구조 개선",
+        "url": "https://www.notion.so/103ef9cff54580459781ec80f5fbfbbe"
+      },
+      {
+        "page_id": "92c0a7b1-4531-4008-adb2-3c0695065a40",
+        "mentionedUser": [
+          {
+            "object": "user",
+            "id": "fedb15d5-0690-40bf-b74f-f84b26fffebc",
+            "name": "예솔 김",
+            "avatar_url": "https://lh3.googleusercontent.com/a/AATXAJyF_ZePZaIQ_r-egEWstIacIvWpNXKCYTBld6j7=s100",
+            "type": "person",
+            "person": {
+              "email": "tribegod.123@gmail.com"
+            }
+          }
+        ],
+        "comment_text": "지정하신 마감일이 하루 남았어요! 🔥[작업 이름: Editor 페이지 디자인 (실행 결과 확인란)]",
+        "title": "Editor 페이지 디자인 (실행 결과 확인란)",
+        "url": "https://www.notion.so/Editor-92c0a7b145314008adb23c0695065a40"
+      }
+    ]
+  }
+}
