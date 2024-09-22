@@ -26,20 +26,17 @@ export const code = async (inputs) => {
   const addComments = async (comments) => {
     for (const comment of comments) {
       try {
-        const mention = comment.mentionedUser.map(() => {
+        const mentionText = comment.mentionedUser.map((m) => {
           return {
             type: "mention",
-            mention: { type: "user", user: comment.mentionedUser },
+            mention: { type: "user", user: m },
           };
         });
         // 댓글 추가를 위한 block 생성
         await notion.comments.create({
           parent: { page_id: comment.page_id },
           rich_text: [
-            {
-              type: "mention",
-              mention: { type: "user", user: comment.mentionedUser },
-            },
+            // ...mentionText,
             { type: "text", text: { content: comment.comment_text } },
           ],
         });

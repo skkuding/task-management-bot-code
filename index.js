@@ -2,7 +2,9 @@ import { code } from "./code.js";
 import { code as makeComments } from "./makeComment.js";
 import { code as users } from "./user.js";
 import { code as comments } from "./comment.js";
-import fs from "fs";
+import dotenv from "dotenv";
+
+dotenv.config();
 
 const coderes = await code();
 
